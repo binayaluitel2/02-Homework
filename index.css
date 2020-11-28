@@ -1,3 +1,6 @@
+@media (max-width: 480px) {
+}
+ 
 .myname {
   background-color: lightseagreen;
   color: white;
@@ -5,6 +8,8 @@
 }
 body {
   background-image: url("https://cdn.hipwallpaper.com/i/38/2/FCqoTn.jpg");
+  height: 100%;
+
 }
 /* .myphoto {
    clear:right; 
@@ -15,8 +20,8 @@ body {
 } */
 
 .myphoto {
-  height:150px; 
-  width: 150px; 
+  height:250px; 
+  width: 250px; 
   float: left;
    margin: 5px 15px 5px 5px;
   border: 5px solid #000000; 
@@ -29,13 +34,27 @@ body {
 }
 .surrounding{
   background-color: white;
-  margin-left: 50px;
-  margin-right: 150px;
-  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  min-height: 100%;
+
+
 }
 .btn {
   background-color: lightseagreen;
 }
-/* p {
-  float:right;
-} */
+
+
+  footer {
+    position:sticky;
+    bottom:0;
+    text-emphasis: bold ;
+    text-align: center;
+
+    width:100%;
+    height:30px;   /* Height of the footer */
+    background:lightseagreen;
+ }
+
