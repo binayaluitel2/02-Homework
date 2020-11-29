@@ -1,5 +1,5 @@
-@media (max-width: 480px) {
-}
+/* @media (max-width: 480px) {
+} */
  
 .myname {
   background-color: lightseagreen;
@@ -9,7 +9,9 @@
 body {
   background-image: url("https://cdn.hipwallpaper.com/i/38/2/FCqoTn.jpg");
   height: 100%;
-  margin-bottom: 30px ;
+  /* margin-bottom: 30px ; */
+  margin-left: 0px;
+  margin-right: 0px;
 
 }
 /* .myphoto {
@@ -35,11 +37,11 @@ body {
 }
 .surrounding{
   background-color: white;
-  margin-left: auto;
+  /* margin-left: auto;
   margin-right: auto;
   margin-top: auto;
-  margin-bottom: auto;
-  min-height: 90%;
+  margin-bottom: auto; */
+  /* min-height: 90%; */
 
 
 }
