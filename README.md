@@ -15,8 +15,8 @@ Kudos to Jason McGinthy, Emily Todt and Shauna Dunn. We worked together a team. 
 
 ## Screenshot of Deployed App (Expanded)
 
-![code refactor demo](https://user-images.githubusercontent.com/38023074/100551935-e0315000-3251-11eb-884f-2c04585bf2db.png)
+![deployed_app_expanded](https://user-images.githubusercontent.com/38023074/100572285-13e89600-32a3-11eb-8bfa-2c5e06f7323e.png)
 
 ## Screenshot of Deployed App (Contracted)
 
-![code refactor demo](https://user-images.githubusercontent.com/38023074/100551966-15d63900-3252-11eb-80f5-544b78bfd9f0.png)
+![deployed_app_contracted](https://user-images.githubusercontent.com/38023074/100572399-5dd17c00-32a3-11eb-9b8b-a6a684855033.png)
